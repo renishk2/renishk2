@@ -1,6 +1,10 @@
 # Welcome To Renish's Workspace!
 ---
-### Driven by a passion for data-driven solutions that optimize performance and enhance outcomes, I bring a track record of dependability and teamwork to collaborative environments. With a focus on critical thinking and problem-solving, I consistently drive successful outcomes while actively seeking opportunities to learn from industry experts and collaborate with like-minded professionals.
+
+### About Me: 
+
+Driven by a passion for data-driven solutions that optimize performance and enhance outcomes, I bring a track record of dependability and teamwork to collaborative environments. With a focus on critical thinking and problem-solving, I consistently drive successful outcomes while actively seeking opportunities to learn from industry experts and collaborate with like-minded professionals.
+
 --- 
 ### My Work: 
 
