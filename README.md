@@ -8,7 +8,7 @@ I am currently working on the <a href='https://github.com/renishk2/nasdaq_100_st
 
 ---
 
-### Let's Connect on: 
+### Let's Connect: 
 
 LinkedIn: <a href='https://www.linkedin.com/in/renishkanjiyani/'>Click Me!</a>
 
